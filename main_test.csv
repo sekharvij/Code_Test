@@ -1,5 +1,0 @@
-user_id,email,age,sentence,city
-1,a@example.com,25.0,The cat sat on the mat.,New York
-2,b@example.com,,The cat is on the mat.,New York
-3,c@example.com,30.0,A dog barked.,Chicago
-3,c@example.com,30.0,The cat sat on the mat.,Chicago
